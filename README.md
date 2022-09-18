@@ -1,7 +1,7 @@
 # HR 인사관리 프로그램
 [![Project title](./hrimage/hr7.png)](https://github.com/jaelyung/HRManagement)
 
-- Presentation 영상 : [발표영상](https://github.com/jaelyung/HRManagement)
+- Presentation 영상 : [발표영상 바로가기](https://www.youtube.com/watch?v=hxEtyAGhlwM)
 
 - 개발환경 - Java, Oracle
 
