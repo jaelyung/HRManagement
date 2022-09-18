@@ -1,6 +1,8 @@
 # HR 인사관리 프로그램
 [![Project title](./hrimage/hr7.png)](https://github.com/jaelyung/HRManagement)
 
+- Presentation 영상 : [발표영상](https://github.com/jaelyung/HRManagement)
+
 - 개발환경 - Java, Oracle
 
 - 프로젝트 개요 : 인사 담당자를 중심으로 한 사원관리 프로그램. 관리자는 사원들의 모든 정보를 등록, 수정, 삭제할 수 있으며 
